@@ -2,7 +2,7 @@
 
 I’m a Computer Science Engineering student.
 
-I mostly work on backend systems, AI-based tools, and full-stack projects — trying to understand how real-world applications actually scale, handle failures, and stay secure.
+I mostly work on Cybersecurity projects, AI-based tools, and full-stack projects — trying to understand how real-world applications actually scale, handle failures, and stay secure.
 
 This is where I’ll be sharing my projects, experiments, and things I’m learning along the way. Most of what I build is focused on solving problems and improving step by step — not just making demos.
 
