@@ -1,9 +1,29 @@
-Hi, Girish here! 👋
+## Hey there, Girish here !👋
 
-I’m a Computer Science Engineering student trying to get better at building real-world software systems.
+I’m a Computer Science Engineering student.
 
-I’ve worked on AI tools and full-stack projects, but I’m now focusing more on backend, cloud, and security — understanding how systems actually scale and don’t break.
+I mostly work on backend systems, AI-based tools, and full-stack projects — trying to understand how real-world applications actually scale, handle failures, and stay secure.
 
-Still learning, still experimenting, and figuring things out by building and improving step by step.
+This is where I’ll be sharing my projects, experiments, and things I’m learning along the way. Most of what I build is focused on solving problems and improving step by step — not just making demos.
 
-Learning by building and improving with each project.
+---
+
+## 🛠️ Tools & Tech
+
+* C++, Python, JavaScript
+* React, Tailwind CSS
+* Node.js
+* Supabase, MySQL
+* Git & GitHub
+* AWS (learning)
+* OpenAI API, basic ML
+* Web security basics (OWASP)
+
+---
+
+## 🧠 A Bit About Me
+
+* I prefer building things over just watching tutorials
+* Currently trying to understand system design and scalability
+* Interested in how systems fail and how to make them reliable
+* Learning step by step — no shortcuts
