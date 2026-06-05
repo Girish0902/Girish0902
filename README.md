@@ -61,33 +61,59 @@
 ### 🤖 AI Resume Analyzer
 **ATS Scoring & Resume–Job Fit Reasoning**
 
-Analyzes resumes with AI, gives ATS scores and detailed improvement suggestions.
+Analyzes resumes with AI, gives ATS scores and detailed improvement suggestions tailored to the job description.
 
 `Python` `OpenAI API` `FastAPI`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Girish0902/ai-resume-analyzer)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🛡️ ML-Based Network Intrusion Detection
 **Vodafone Idea Foundation Internship**
 
-Ensemble ML pipelines for detecting network intrusions — real telecom data, real-world problem.
+Ensemble ML pipelines for detecting network intrusions on real telecom data. Built during industry internship.
 
 `Python` `scikit-learn` `Wireshark` `Scapy`
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📋 Smart Attendance Admin System
+**QR + Admin Dashboard for Attendance Management**
+
+Admin panel for managing student attendance — real-time tracking, records management, and reporting.
+
+`React` `Node.js` `MySQL`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Girish0902/Smart-Attendence-Admin-01)
+
+</td>
+<td width="50%">
+
+### 🎮 Gesture Controlled Game
+**Computer Vision + Real-Time Game Control**
+
+A game controlled entirely by hand gestures using MediaPipe and OpenCV — no keyboard needed.
+
+`Python` `OpenCV` `MediaPipe`
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Girish0902/geture-controlled-game)
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🛒 AI E-Commerce Recommendation System
 **Personalized Product Recommendations**
 
-ML-based recommendation engine for e-commerce platforms.
+ML-based recommendation engine for e-commerce platforms using collaborative filtering.
 
-`Python` `ML` `Collaborative Filtering`
+`Python` `scikit-learn` `Collaborative Filtering`
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Girish0902/AI-Based-Ecommerce-Recommendation-system)
 
@@ -97,7 +123,7 @@ ML-based recommendation engine for e-commerce platforms.
 ### 🏛️ CivicArch AI
 **AI for Governance / LegalTech**
 
-Earlier civic RTI concept using Gemini 1.5 Flash and LangChain for legal document generation.
+RTI concept using Gemini 1.5 Flash and LangChain for automated legal document generation from citizen inputs.
 
 `LangChain` `Gemini 1.5 Flash` `React` `Vite`
 
@@ -113,7 +139,7 @@ Earlier civic RTI concept using Gemini 1.5 Flash and LangChain for legal documen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Girish0902&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Girish0902&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Girish0902&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -167,9 +193,9 @@ girish = {
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GHRCE-00d9ff?style=for-the-badge&logo=graduation-cap" />
+  <img src="https://img.shields.io/badge/GHRCE-00d9ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Batch-2024--2028-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Nagpur%2C_India-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Nagpur%2C_India-ff6b6b?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
