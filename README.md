@@ -138,12 +138,7 @@ RTI concept using Gemini 1.5 Flash and LangChain for automated legal document ge
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Girish0902&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Girish0902&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Girish0902&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 ---
