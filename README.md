@@ -189,7 +189,7 @@ girish = {
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CGPA-8.18-00d9ff?style=for-the-badge&logo=graduation-cap" />
+  <img src="https://img.shields.io/badge/GHRCE-00d9ff?style=for-the-badge&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/Batch-2024--2028-7c3aed?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Nagpur%2C_India-ff6b6b?style=for-the-badge&logo=google-maps&logoColor=white" />
 </p>
