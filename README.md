@@ -58,16 +58,6 @@
 <tr>
 <td width="50%">
 
-### 🔐 JanSahaay
-**AI-Powered Civic Tech Platform**
-
-Converts citizen complaints into legally compliant RTI applications. Built for real impact at national hackathon.
-
-`React` `FastAPI` `Groq AI (Llama 3.1)` `Supabase/PostGIS` `SendGrid`
-
-</td>
-<td width="50%">
-
 ### 🤖 AI Resume Analyzer
 **ATS Scoring & Resume–Job Fit Reasoning**
 
@@ -90,18 +80,6 @@ Ensemble ML pipelines for detecting network intrusions — real telecom data, re
 `Python` `scikit-learn` `Wireshark` `Scapy`
 
 </td>
-<td width="50%">
-
-### 🗺️ Urban Complaint Intelligence System
-**Heatmap Tool for RTI Data**
-
-Spatially indexed complaint visualization targeting Indian ward-level geography.
-
-`React` `Supabase` `PostGIS` `Mapbox`
-
-</td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🛒 AI E-Commerce Recommendation System
