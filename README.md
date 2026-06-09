@@ -24,7 +24,7 @@
 ```text
 🎓  B.Tech CSE @ G.H. Raisoni College of Engineering, Nagpur (2024–2028)
 🔐  ISC2 Certified in Cybersecurity (CC)
-🔭  Ex-Intern @ Vodafone Idea Foundation & IBM SkillsBuild
+🔭  Ex-Intern @ Vodafone Idea Foundation , Infosys Springboard & IBM SkillsBuild
 🌱  Currently exploring: System Design · Privacy-Enhancing Networks · Cloud Security 
 🛠️  I prefer building things over just watching tutorials
 🎯  Goal: Understand how systems fail — and make them not
