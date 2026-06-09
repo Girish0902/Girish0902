@@ -158,7 +158,7 @@ RTI concept using Gemini 1.5 Flash and LangChain for automated legal document ge
 | 🔐 **Cybersecurity Research** | Privacy-Enhancing Networks, VPN Architectures, mix-nets |
 | 🧠 **System Design** | Scalability, fault tolerance, distributed systems |
 | 🤖 **AI/ML** | LLM pipelines, ensemble methods, agentic tools |
-| 💻 **DSA** | LeetCode grind — consistent, every day |
+| 💻 **DSA** | Hackerrank grind — consistent, every day |
 | 🌐 **Open Source & Hackathons** | Building, shipping, learning from real problems |
 
 ---
@@ -166,8 +166,8 @@ RTI concept using Gemini 1.5 Flash and LangChain for automated legal document ge
 ## 🏆 Certifications & Achievements
 
 - 🛡️ **ISC2 Certified in Cybersecurity (CC)**
-- ⚡ **Technical Team Lead** — E-Cell, GHRCE Nagpur
-- 🏢 **ML Intern** — Vodafone Idea Foundation (Network Intrusion Detection)
+- ⚡ **Artificial Intelligence Intern** — Infosys Springboard (AI-Based-Ecommerce-Recommendation-system)
+- 🏢 **Cybersecurity Intern** — Vodafone Idea Foundation (Network Intrusion Detection)
 - 📊 **ML Intern** — IBM SkillsBuild (Ensemble ML Pipelines)
 - 🏅 **Hackathon Builder** — JanSahaay (National-level), CivicArch AI
 
